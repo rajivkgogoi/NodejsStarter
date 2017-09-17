@@ -1,0 +1,2 @@
+C:\Architecture_Technology\NODEJS\NodeJsStarter
+mongodb connection opened.
